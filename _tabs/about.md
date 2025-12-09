@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+# order: 4
 ---
 
 **PrivateCRM** - это cистема управления службой доставки питания по подписке.  
