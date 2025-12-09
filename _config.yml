@@ -223,3 +223,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     # category: /categories/:name/
+
+# Отображаемые вкладки навигации
+tabs:
+  home: /
+  archive: /archives/
+  # categories: /categories/
+  tags: /tags/
+  # about: /about/
