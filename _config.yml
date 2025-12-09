@@ -11,6 +11,8 @@ lang: ru
 # Change to your timezone › https://zones.arilyn.cc
 timezone: Europe/Moscow
 
+theme_color: "blue"
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
@@ -24,11 +26,11 @@ description: "Новости и релизы PrivateCRM"
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://privatecrm.github.io"
 
-github:
-  username: github_username # change to your GitHub username
+# github:
+#   username: github_username # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
