@@ -1,10 +1,14 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
+#- type: github
+#  icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+#- type: twitter
+#  icon: "fa-brands fa-x-twitter"
+
+- type: website
+  icon: "fas fa-globe"
+  url: "https://private-crm.ru/"
 
 - type: telegram
   icon: "fab fa-telegram"
