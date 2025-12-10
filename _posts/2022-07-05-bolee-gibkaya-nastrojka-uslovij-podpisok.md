@@ -17,7 +17,7 @@ toc: false
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/posts/2022-07-05-bolee-gibkaya-nastrojka-uslovij-podpisok/2.jpg' | relative_url }}" alt="2" style="max-width:100%; height:auto; display:inline-block;" />
-</div}
+</div>
 
 Создавайте несколько диет в одном заказе с разными днями приготовления.
 
