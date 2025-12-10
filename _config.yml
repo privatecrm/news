@@ -14,9 +14,9 @@ timezone: Europe/Moscow
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "PrivateCRM — Новости"
+title: "PrivateCRM"
 
-tagline: "Новости и релизы PrivateCRM"
+tagline: "Новости и релизы"
 
 description: "Новости и релизы PrivateCRM"
 
@@ -152,6 +152,8 @@ paginate: 10
 # The base URL of your site
 baseurl: "" 
 
+category_plugin: false
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -217,11 +219,8 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [category, tags]
-  #enabled: [tags]
+  enabled: [tags]
   layouts:
-    category: category
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
