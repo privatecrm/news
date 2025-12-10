@@ -21,10 +21,12 @@ toc: false
 
 При создании заказа так же появилась возможность отобразить сформированное расписание в графике доставки
 
-<video controls style="max-width:100%;">
-  <source src="{{ '/assets/img/posts/2022-04-01-anons-aprelskogo-obnovleniya/3.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
-</video>
+<div style="text-align:center;">
+  <video controls style="max-width:100%;">
+    <source src="{{ '/assets/img/posts/2022-04-01-anons-aprelskogo-obnovleniya/3.mp4' | relative_url }}" type="video/mp4">
+    Ваш браузер не поддерживает видео.
+  </video>
+</div>
 
 Вы сами можете указать количество дополнительных диет в одном заказе для этого откройте “Управление” в “Настройки” и задайте необходимое число - на странице создания заказа слева отобразятся соответствующие этому числу вкладки
 
@@ -32,10 +34,12 @@ toc: false
 
 Был заново собран массив с данными в карточке блюд, что существенно улучшило стабильность обработки запросов базы и повысило скорость обновления страницы, появится кнопка динамического пересчета от текущего веса порции. 
 
-<video controls style="max-width:100%;">
-  <source src="{{ '/assets/img/posts/2022-04-01-anons-aprelskogo-obnovleniya/5.mp4' | relative_url }}" type="video/mp4">
-  Ваш браузер не поддерживает видео.
-</video>
+<div style="text-align:center;">
+  <video controls style="max-width:100%;">
+    <source src="{{ '/assets/img/posts/2022-04-01-anons-aprelskogo-obnovleniya/5.mp4' | relative_url }}" type="video/mp4">
+    Ваш браузер не поддерживает видео.
+  </video>
+</div>
 
 В диетах добавится отображение себестоимости каждого дня.
 
