@@ -14,12 +14,14 @@ toc: false
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/posts/2022-11-10-obnovlenie-ot-101122-zony-dostavki/1.jpg' | relative_url }}" alt="Зонирование в справочниках" style="max-width:100%; height:auto; display:inline-block;" />
+  <figcaption>Зонирование в справочниках</figcaption>
 </div>
 
 Чтобы привязать стоимость доставки к отрисованным зонам, необходимо в "Видах доставки" назначить зоны.
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/posts/2022-11-10-obnovlenie-ot-101122-zony-dostavki/2.jpg' | relative_url }}" alt="Виды доставки" style="max-width:100%; height:auto; display:inline-block;" />
+  <figcaption>Виды доставки</figcaption>
 </div>
 
 > При установленной метке "Используется для всех филиалов" зоны активного филиала не будут отображаться в других филиалах
@@ -28,10 +30,12 @@ toc: false
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/posts/2022-11-10-obnovlenie-ot-101122-zony-dostavki/3.jpg' | relative_url }}" alt="Привязка стоимости к зоне" style="max-width:100%; height:auto; display:inline-block;" />
+  <figcaption>Привязка стоимости к зоне</figcaption>
 </div>
 
 При добавлении нового адреса необходимо определить адрес на карте нажав кнопку "Определить", далее указать координаты, стоимость доставки так же привяжется в зависимости от зоны.
 
 <div style="text-align:center;">
   <img src="{{ '/assets/img/posts/2022-11-10-obnovlenie-ot-101122-zony-dostavki/4.jpg' | relative_url }}" alt="Определение адреса на карте" style="max-width:100%; height:auto; display:inline-block;" />
+  figcaption>Определение адреса на карте</figcaption>
 </div>
