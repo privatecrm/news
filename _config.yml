@@ -215,11 +215,6 @@ exclude:
   - "package*.json"
   
 paginate: 5
-paginate_path: "/page:num/"
-
-plugins:
-  - jekyll-archives
-  - jekyll-paginate
 
 jekyll-archives:
   enabled: [tags]
