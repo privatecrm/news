@@ -1,4 +1,8 @@
+---
+# Этот блок заставляет Jekyll обработать файл
+---
+
 /* Скрыть блок "Недавно обновлено" */
-#access-lastmod {
-    display: none;
+#panel-wrapper #access-lastmod {
+  display: none !important;
 }
