@@ -152,7 +152,7 @@ paginate: 10
 # The base URL of your site
 baseurl: "" 
 
-category_plugin: false
+update_list: false
 
 # ------------ The following options are not recommended to be modified ------------------
 
