@@ -222,6 +222,3 @@ jekyll-archives:
     tag: tag
   permalinks:
     tag: /tags/:name/
-
-head_extra:
-  - <link rel="stylesheet" href="/assets/css/custom.css">
