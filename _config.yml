@@ -147,8 +147,6 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
-
 # The base URL of your site
 baseurl: "" 
 
@@ -215,6 +213,13 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  
+plugins:
+  - jekyll-archives
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page:num/"
 
 jekyll-archives:
   enabled: [tags]
