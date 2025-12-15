@@ -1,7 +1,7 @@
 ---
 title: "Новый функционал гибкой настройки расписания доставки"
 date: 2023-04-26 00:00:00 +0300
-tags: [расписание, календарь доставок, логистика]
+tags: [расписание, календарь доставок, логистика, подписки]
 author: "Private CRM"
 layout: post
 canonical: "https://telegra.ph/Novyj-funkcional-gibkoj-nastrojki-raspisaniya-dostavki-04-26"

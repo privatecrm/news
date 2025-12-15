@@ -1,7 +1,7 @@
 ---
 title: "Прогноз закупок упаковки и хоз.товаров"
 date: 2022-07-12 00:00:00 +0300
-tags: [прогноз, закупки, упаковка, хозтовары, склад, планирование]
+tags: [прогноз закупок, упаковка, хозтовары, склад, планирование]
 author: "Private CRM"
 layout: post
 canonical: "https://telegra.ph/Prognoz-zakupok-upakovki-i-hoztovarov-07-12"
