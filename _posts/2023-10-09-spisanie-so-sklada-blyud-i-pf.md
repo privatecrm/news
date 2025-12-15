@@ -1,7 +1,7 @@
 ---
 title: "Списание со склада блюд и пф"
 date: 2023-10-09 00:00:00 +0300
-tags: [списания, склад, блюда, полуфабрикаты, инвентаризация, учёт]
+tags: [списания, склад, блюда, полуфабрикаты, учёт]
 author: "PrivateCRM"
 layout: post
 canonical: "https://telegra.ph/Spisyvanie-so-sklada-blyud-i-pf-10-09"
