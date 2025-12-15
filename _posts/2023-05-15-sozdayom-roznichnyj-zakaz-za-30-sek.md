@@ -22,4 +22,4 @@ toc: false
   </iframe>
 </div>
 
-С наилучшими пожеланиями, команда Private CRM
+С наилучшими пожеланиями, команда PrivateCRM
