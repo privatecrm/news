@@ -15,24 +15,24 @@ summary: "Обновлённый интерфейс карт: увеличенн
 
 1. Увеличенная карта, доступная по кнопке Увеличить карту
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/1.jpg' | relative_url }}" alt="кнопка Увеличить карту" style="max-width:100%; height:auto; display:inline-block;" />
-  <figcaption>кнопка Увеличить карту</figcaption>
-</figure>
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/1.jpg' | relative_url }}" alt="кнопка Увеличить карту" style="max-width:100%; height:auto; display:inline-block;" />
+      <figcaption>кнопка Увеличить карту</figcaption>
+    </figure>
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/2.jpg' | relative_url }}" alt="Увеличенный размер карты" style="max-width:100%; height:auto; display:inline-block;" />
-  <figcaption>Увеличенный размер карты</figcaption>
-</figure>
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/2.jpg' | relative_url }}" alt="Увеличенный размер карты" style="max-width:100%; height:auto; display:inline-block;" />
+      <figcaption>Увеличенный размер карты</figcaption>
+    </figure>
 
 2. кнопка Оптимизировать маршрут теперь в виде значка пина, доступна для каждого курьера и массово. Чтобы было удобно оптимизировать маршрут на увеличенной карте тоже.
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/3.jpg' | relative_url }}" alt="кнопка Оптимизировать маршрут курьера" style="max-width:100%; height:auto; display:inline-block;" />
-  <figcaption>кнопка Оптимизировать маршрут курьера</figcaption>
-</figure>
-
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/4.jpg' | relative_url }}" alt="кнопка массовой Оптимизации маршрутов назначенных курьеров" style="max-width:100%; height:auto; display:inline-block;" />
-  <figcaption>кнопка массовой Оптимизации маршрутов назначенных курьеров</figcaption>
-</figure>
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/3.jpg' | relative_url }}" alt="кнопка Оптимизировать маршрут курьера" style="max-width:100%; height:auto; display:inline-block;" />
+      <figcaption>кнопка Оптимизировать маршрут курьера</figcaption>
+    </figure>
+    
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-12-21-uvelichenie-karty/4.jpg' | relative_url }}" alt="кнопка массовой Оптимизации маршрутов назначенных курьеров" style="max-width:100%; height:auto; display:inline-block;" />
+      <figcaption>кнопка массовой Оптимизации маршрутов назначенных курьеров</figcaption>
+    </figure>

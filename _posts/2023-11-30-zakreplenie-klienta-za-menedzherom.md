@@ -13,29 +13,29 @@ summary: "Добавлена возможность привязки клиен�
 1. **Все существующие клиенты** назначены на пользователей, которые их **создали**. Проверьте, пожалуйста, и при необходимости скорректируйте назначенного менеджера!
 2. Настраивается в карточке клиента:
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/1.jpg' | relative_url }}" alt="Настройка менеджера в карточке клиента" style="max-width:100%; height:auto; display:inline-block;" />
-</figure>
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/1.jpg' | relative_url }}" alt="Настройка менеджера в карточке клиента" style="max-width:100%; height:auto; display:inline-block;" />
+    </figure>
 
 3. В выпадающем списке отображаются менеджеры, у которых в группе пользователей/у пользователя свойство "Менеджер клиентов" отмечено галочкой:
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/2.jpg' | relative_url }}" alt="Свойство Менеджер клиентов в группе пользователей" style="max-width:100%; height:auto; display:inline-block;" />
-  <figcaption>Свойство «Менеджер клиентов» в группе пользователей</figcaption>
-</figure>
-
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/3.jpg' | relative_url }}" alt="Свойство Менеджер клиентов у пользователя" style="max-width:100%; height:auto; display:inline-block;" />
-  <figcaption>Свойство «Менеджер клиентов» у пользователя</figcaption>
-</figure>
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/2.jpg' | relative_url }}" alt="Свойство Менеджер клиентов в группе пользователей" style="max-width:100%; height:auto; display:inline-block;" />
+      <figcaption>Свойство «Менеджер клиентов» в группе пользователей</figcaption>
+    </figure>
+    
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/3.jpg' | relative_url }}" alt="Свойство Менеджер клиентов у пользователя" style="max-width:100%; height:auto; display:inline-block;" />
+      <figcaption>Свойство «Менеджер клиентов» у пользователя</figcaption>
+    </figure>
 
 4. При создании заказа с НОВЫМ клиентом, этому клиенту назначается менеджером текущий пользователь (НО только если он состоит в группе с галочкой менеджеров).
 
 5. Чтобы редактировать менеджера в СОЗДАННОМ клиенте, нужно право №311:
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/4.jpg' | relative_url }}" alt="Права для редактирования менеджера" style="max-width:100%; height:auto; display:inline-block;" />
-</figure>
+    <figure style="text-align:center;">
+      <img src="{{ '/assets/img/posts/2023-11-30-zakreplenie-klienta-za-menedzherom/4.jpg' | relative_url }}" alt="Права для редактирования менеджера" style="max-width:100%; height:auto; display:inline-block;" />
+    </figure>
 
 Страница заказов, отфильтрованных по назначенному менеджеру, имеет вид:
 
