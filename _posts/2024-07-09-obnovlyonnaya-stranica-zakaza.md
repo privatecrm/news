@@ -1,7 +1,7 @@
 ---
 title: "Обновлённая страница заказа"
 date: 2024-07-09 00:00:00 +0300
-tags: [заказы, календарь доставок]
+tags: [заказы]
 author: "PrivateCRM"
 layout: post
 canonical: "https://telegra.ph/Obnovlyonnaya-stranica-zakaza-07-09"
