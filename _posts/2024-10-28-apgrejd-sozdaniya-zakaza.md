@@ -1,7 +1,7 @@
 ---
 title: "Обновление формы создания подписки"
 date: 2024-10-28 00:00:00 +0300
-tags: [заказ, подписки]
+tags: [заказы, подписки]
 author: "PrivateCRM"
 layout: post
 canonical: "https://telegra.ph/Apgrejd-sozdaniya-zakaza-10-28"
