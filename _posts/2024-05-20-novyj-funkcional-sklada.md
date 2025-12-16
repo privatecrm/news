@@ -17,13 +17,13 @@ summary: "Расширение функционала склада: полуфа
       <img src="{{ '/assets/img/posts/2024-05-20-novyj-funkcional-sklada/1.jpg' | relative_url }}" alt="Полуфабрикаты в документах" style="max-width:100%; height:auto; display:inline-block;" />
     </figure>
 
-* возможность добавления складов, подробнее см. https://help.private-crm.ru/sklad/sklady
-* новые типы документов: производство полуфабрикатов, перемещение между складами, подробнее см. https://help.private-crm.ru/sklad/tipy-dokumentov/proizvodstvo-polufabrikatov, https://help.private-crm.ru/sklad/tipy-dokumentov/peremeshenie-mezhdu-skladami
-* возможность создать непроведенный документ, подробнее см. https://help.private-crm.ru/sklad/dobavlenie-dokumenta#sozdat
+* возможность добавления складов, подробнее см. [](https://help.private-crm.ru/sklad/sklady)
+* новые типы документов: производство полуфабрикатов, перемещение между складами, подробнее см. [](https://help.private-crm.ru/sklad/tipy-dokumentov/proizvodstvo-polufabrikatov), [](https://help.private-crm.ru/sklad/tipy-dokumentov/peremeshenie-mezhdu-skladami)
+* возможность создать непроведенный документ, подробнее см. [](https://help.private-crm.ru/sklad/dobavlenie-dokumenta#sozdat)
 
 В целом справка по складу была обновлена, ссылки на новый функционал даны выше.
 
-⚠️Обращаем внимание на новую настройку выбора склада для списания продуктов, полуфабрикатов и хоз. товаров, а также выбор типа списания полуфабрикатов, подробнее см. https://help.private-crm.ru/sklad/nastroiki
+⚠️Обращаем внимание на новую настройку выбора склада для списания продуктов, полуфабрикатов и хоз. товаров, а также выбор типа списания полуфабрикатов, подробнее см. [](https://help.private-crm.ru/sklad/nastroiki)
 
 Удобного пользования!
 
