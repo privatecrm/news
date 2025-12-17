@@ -1,6 +1,7 @@
 ---
 title: "Группа блюд на замену"
 date: 2023-10-26 00:00:00 +0300
+categories: [Обновления]
 tags: [исключения, блюда, замены]
 author: "PrivateCRM"
 layout: post

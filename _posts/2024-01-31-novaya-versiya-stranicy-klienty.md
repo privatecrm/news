@@ -1,6 +1,7 @@
 ---
 title: "Новая версия страницы Клиенты"
 date: 2024-01-31 00:00:00 +0300
+categories: [Обновления]
 tags: [клиенты, таблицы]
 author: "PrivateCRM"
 layout: post

@@ -1,7 +1,8 @@
 ---
 title: "Прогноз закупок по диетам и калькулятор закупок"
 date: 2022-07-01 00:00:00 +0300
-tags: [прогноз, закупки, диеты, калькулятор, аналитика]
+categories: [Обновления]
+tags: [прогноз закупок, диеты, аналитика, планирование]
 author: "PrivateCRM"
 layout: post
 canonical: "https://telegra.ph/Prognoz-zakupok-po-dietam-i-kalkulyator-zakupok-Private-CRM-07-01"

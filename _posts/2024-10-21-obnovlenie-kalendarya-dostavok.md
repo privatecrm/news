@@ -1,6 +1,7 @@
 ---
 title: "Обновление календаря доставок"
 date: 2024-10-21 00:00:00 +0300
+categories: [Обновления]
 tags: [календарь доставок]
 author: "PrivateCRM"
 layout: post

@@ -1,6 +1,7 @@
 ---
 title: "Обновлённая страница заказа"
 date: 2024-07-09 00:00:00 +0300
+categories: [Обновления]
 tags: [заказы]
 author: "PrivateCRM"
 layout: post

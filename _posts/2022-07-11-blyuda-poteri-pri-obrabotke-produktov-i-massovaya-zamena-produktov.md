@@ -1,7 +1,8 @@
 ---
 title: "Блюда: потери при обработке продуктов и массовая замена продуктов"
 date: 2022-07-11 00:00:00 +0300
-tags: [потери, обработка продуктов, замены, продукты, блюда, полуфабрикаты]
+categories: [Обновления]
+tags: [замены, продукты, блюда, полуфабрикаты]
 author: "Private CRM"
 layout: post
 canonical: "https://telegra.ph/Blyuda-poteri-pri-obrabotke-produktov-i-massovaya-zamena-produktov-07-11"

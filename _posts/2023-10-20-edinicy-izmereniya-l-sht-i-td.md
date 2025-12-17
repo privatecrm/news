@@ -1,7 +1,8 @@
 ---
 title: "Единицы измерения (л, шт и т.д.)"
 date: 2023-10-20 00:00:00 +0300
-tags: [единицы измерения, продукты, полуфабрикаты, склад]
+categories: [Обновления]
+tags: [единицы измерения, продукты, полуфабрикаты, склад, учёт]
 author: "Private CRM"
 layout: post
 canonical: "https://telegra.ph/Edinicy-izmereniya-l-sht-i-td-10-20"

@@ -1,6 +1,7 @@
 ---
 title: "Новая версия страницы Заказы"
 date: 2023-12-25 00:00:00 +0300
+categories: [Обновления]
 tags: [заказы, таблицы]
 author: "PrivateCRM"
 layout: post

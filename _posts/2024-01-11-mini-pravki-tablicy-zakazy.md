@@ -1,6 +1,7 @@
 ---
 title: "Мини-правки таблицы Заказы"
 date: 2024-01-11 00:00:00 +0300
+categories: [Обновления]
 tags: [заказы, таблицы]
 author: "PrivateCRM"
 layout: post

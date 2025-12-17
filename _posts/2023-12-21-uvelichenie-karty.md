@@ -1,6 +1,7 @@
 ---
 title: "Увеличение карты"
 date: 2023-12-21 00:00:00 +0300
+categories: [Обновления]
 tags: [карты, маршруты, курьеры]
 author: "PrivateCRM"
 layout: post

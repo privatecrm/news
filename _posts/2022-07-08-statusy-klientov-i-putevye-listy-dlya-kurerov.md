@@ -1,7 +1,8 @@
 ---
 title: "Статусы клиентов и путевые листы для курьеров"
 date: 2022-07-08 00:00:00 +0300
-tags: [клиенты, статусы, курьеры, путевые листы, доставка]
+categories: [Обновления]
+tags: [клиенты, статусы, курьеры, доставка]
 author: "Private CRM"
 layout: post
 canonical: "https://telegra.ph/Statusy-klientov-i-putevye-listy-dlya-kurerov-07-08"

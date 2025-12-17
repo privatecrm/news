@@ -1,7 +1,8 @@
 ---
 title: "Более гибкая настройка условий подписок"
 date: 2022-07-05 00:00:00 +0300
-tags: [подписки, настройки, диеты, заказы, доставка, расписание]
+categories: [Обновления]
+tags: [подписки, диеты, заказы, доставка, расписание]
 author: "Private CRM"
 layout: post
 canonical: "https://telegra.ph/Bolee-gibkaya-nastrojka-uslovij-podpisok-07-05"

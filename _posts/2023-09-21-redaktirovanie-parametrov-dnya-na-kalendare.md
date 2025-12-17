@@ -1,6 +1,7 @@
 ---
 title: "Новый Календарь доставок"
 date: 2023-09-21 00:00:00 +0300
+categories: [Обновления]
 tags: [календарь доставок, расписание]
 author: "PrivateCRM"
 layout: post

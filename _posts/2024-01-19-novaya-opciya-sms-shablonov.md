@@ -1,6 +1,7 @@
 ---
 title: "Новая опция смс-шаблонов"
 date: 2024-01-19 00:00:00 +0300
+categories: [Обновления]
 tags: [sms, уведомления]
 author: "PrivateCRM"
 layout: post

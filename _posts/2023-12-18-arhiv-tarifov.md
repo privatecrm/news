@@ -1,6 +1,7 @@
 ---
 title: "Архив тарифов"
 date: 2023-12-18 00:00:00 +0300
+categories: [Обновления]
 tags: [тарифы, заказы]
 author: "PrivateCRM"
 layout: post

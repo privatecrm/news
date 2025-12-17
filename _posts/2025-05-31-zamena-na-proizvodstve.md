@@ -1,6 +1,7 @@
 ---
 title: "Замены на производстве"
 date: 2025-05-31 00:00:00 +0300
+categories: [Обновления]
 tags: [производство, замены, исключения]
 author: "PrivateCRM"
 layout: post

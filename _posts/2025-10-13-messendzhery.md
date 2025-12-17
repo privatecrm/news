@@ -1,6 +1,7 @@
 ---
 title: "Теперь все чаты — в PrivateCRM! Подключаем Wazzup"
 date: 2025-10-13 00:00:00 +0300
+categories: [Обновления]
 tags: [мессенджеры, интеграция, чаты]
 author: "PrivateCRM"
 layout: post
