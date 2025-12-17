@@ -1,7 +1,7 @@
 ---
 title: "Массовая замена блюд-исключений. Группы для блюд-исключений"
 date: 2023-08-14 00:00:00 +0300
-tags: [замены, исключения, меню, подписки, кухня]
+tags: [замены, исключения, меню, подписки, готовка, производство]
 author: "PrivateCRM"
 layout: post
 canonical: "https://telegra.ph/Massovaya-zamena-blyud-isklyuchenij-Gruppy-dlya-blyud-isklyuchenij-08-14"
