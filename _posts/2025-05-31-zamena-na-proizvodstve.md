@@ -15,13 +15,13 @@ summary: "Добавлен функционал замен на производ
 
 Итак, как работают замены в новом производстве (ближе к концу новости есть видео-инструкция):
 
-### 1. Переходим в Смены-Производство
+#### 1. Переходим в Смены-Производство
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/1.jpg' | relative_url }}" alt="1" style="max-width:100%; height:auto; display:inline-block;" />
 </figure>
 
-### 2. Открывается вкладка Замена, на которой отображаются все блюда с исключением по продукту и блюда-исключения, которые готовятся в эту дату:
+#### 2. Открывается вкладка Замена, на которой отображаются все блюда с исключением по продукту и блюда-исключения, которые готовятся в эту дату:
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/2.jpg' | relative_url }}" alt="2" style="max-width:100%; height:auto; display:inline-block;" />
@@ -29,7 +29,7 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Пояснения по значкам исключений</figcaption>
 </figure>
 
-### 3. Замены разбиты по заказам (нижний зелёный блок). Если есть блюдо с одинаковым названием, весом и исключением **в 2х и более случаях** - то они сгруппируются для возможности массовой замены в верхнем блоке:
+#### 3. Замены разбиты по заказам (нижний зелёный блок). Если есть блюдо с одинаковым названием, весом и исключением **в 2х и более случаях** - то они сгруппируются для возможности массовой замены в верхнем блоке:
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/4.jpg' | relative_url }}" alt="4" style="max-width:100%; height:auto; display:inline-block;" />
@@ -41,7 +41,7 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Группировка одинаковых блюд в массовом блоке</figcaption>
 </figure>
 
-### 4. Для произведения замены у нужного блюда кликаем по боксу замены, появляется выпадающий список:
+#### 4. Для произведения замены у нужного блюда кликаем по боксу замены, появляется выпадающий список:
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/6.jpg' | relative_url }}" alt="6" style="max-width:100%; height:auto; display:inline-block;" />
@@ -101,7 +101,7 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Комментарий клиента для производства</figcaption>
 </figure>
 
-### 5. Итак, с опциями замен разобрались, произведём саму замену:
+#### 5. Итак, с опциями замен разобрались, произведём саму замену:
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/13.jpg' | relative_url }}" alt="13" style="max-width:100%; height:auto; display:inline-block;" />
@@ -110,7 +110,7 @@ summary: "Добавлен функционал замен на производ
 
 У выбранного блюда-замены калорийность равна калорийности блюда-исключения. Вес порции рассчитан, исходя из калорийности.
 
-### 6. Настройки веса и ккал блюда-замены:  
+#### 6. Настройки веса и ккал блюда-замены:  
 
 Если в карточке блюда стоит шаг размера порции больше, чем 1 г, то значение веса будет округлено с учётом этого шага, а калорийность пересчитана с учётом округления. Например, шаг порции 10 г:
 
@@ -133,7 +133,7 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Изменение веса с учетом шага</figcaption>
 </figure>
 
-#### 6.1 Вес порций блюд с коэффициентами 1,5 и 2
+##### 6.1 Вес порций блюд с коэффициентами 1,5 и 2
 
 Если используете веса порций с коэффициентами 1,5 и 2, то будет удобно в шаге выставить половину веса базового блюда. На примере того же Судака: базовый вес 240г, выставим шаг 120г (минимальный шаг нужно будет выставить кратным этому значению, т.е. 120г или 240г):
 
@@ -151,7 +151,7 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Вывод только веса базового, х1,5, х2</figcaption>
 </figure>
 
-### 7. Массовая замена
+#### 7. Массовая замена
 Отлично! С выбором блюда и редактированием его веса разобрались! Перейдем к возможности массовой замены. Удобно тем, что замена блюда, корректировка веса делается 1 раз, а не нужно проставлять в каждом заказе. При необходимости можно так же массово отменить замену:
 
 <figure style="text-align:center;">
@@ -170,15 +170,15 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Отмена массовой замены для конкретного заказа</figcaption>
 </figure>
 
-### 8. Далее проверяем в блоке Замен по заказам давность этого блюда в меню клиента (значки-подсказки) и сверяемся с индивидуальными комментариями производства - если нужно, вносим правки.
+#### 8. Далее проверяем в блоке Замен по заказам давность этого блюда в меню клиента (значки-подсказки) и сверяемся с индивидуальными комментариями производства - если нужно, вносим правки.
 
-### 9. Аналогичным образом проставляем где нужно остальные массовые и индивидуальные замены. Нажимаем кнопку Сохранить внизу страницы:
+#### 9. Аналогичным образом проставляем где нужно остальные массовые и индивидуальные замены. Нажимаем кнопку Сохранить внизу страницы:
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/24.jpg' | relative_url }}" alt="24" style="max-width:100%; height:auto; display:inline-block;" />
 </figure>
 
-### 10. Готово! Все сохранённые замены появятся в нижнем сером блоке Сохранённые замены:
+#### 10. Готово! Все сохранённые замены появятся в нижнем сером блоке Сохранённые замены:
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2025-05-31-zamena-na-proizvodstve/25.jpg' | relative_url }}" alt="25" style="max-width:100%; height:auto; display:inline-block;" />
@@ -202,21 +202,38 @@ summary: "Добавлен функционал замен на производ
   <figcaption>Замена в Сборке заказов</figcaption>
 </figure>
 
-### Видео-инструкция:
+#### Видео-инструкция:
+
 
 <div style="text-align:center;">
-<iframe width="100%"
-    height="480" src="https://www.youtube.com/embed/cdrpi1o_pYc?si=QZDiHyhfkwRngqiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="max-width:100%;></iframe>
+  <iframe
+    width="100%"
+    height="480"
+    src="https://www.youtube.com/embed/cdrpi1o_pYc?si=QZDiHyhfkwRngqiO"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="max-width:100%;">
+  </iframe>
 <figcaption>Youtube</figcaption>
 </div>
 
 <div style="text-align:center;">
-<iframe width="100%"
-    height="480" src="https://rutube.ru/play/embed/eb869687ff8d5f2420642d81b2f3ee0d/" style="border: none;" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen style="max-width:100%;></iframe>
+  <iframe
+    width="100%"
+    height="480"
+    src="https://rutube.ru/play/embed/eb869687ff8d5f2420642d81b2f3ee0d/"
+    title="Rutube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="max-width:100%;">
+  </iframe>
 <figcaption>Rutube</figcaption>
 </div>
 
-### 11. И напоследок поясним про **изменения настроек файла Печать меню**:
+#### 11. И напоследок поясним про **изменения настроек файла Печать меню**:
 * все настройки этого файла переехали в кнопку справа от кнопки Печать меню:
 
     <figure style="text-align:center;">
@@ -237,7 +254,7 @@ summary: "Добавлен функционал замен на производ
     
     Отжатие галочек Исключения/Замены, Комментарий для производства - уберёт выбранные столбцы.
 
-### Сортировка по диетам/дням питания:
+#### Сортировка по диетам/дням питания:
 если готовятся рационы на разные дни питания (например, ВС и ПН), то можно вывести сначала диету 900ккал ВС, 900ккал ПН, 1200ккал ВС, 1200ккал ПН и т.д. - тогда оставляйте сортировку по диетам.
 если нужна сортировка типа 900ккал ВС, 1200ккал ВС и остальные диеты с днём питания ВС, далее 900ккал ПН и остальные диеты с днём питания ПН - то меняйте сортировку По дням питания.
 
