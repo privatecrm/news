@@ -35,10 +35,12 @@ summary: "Обновление дизайна производственных �
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2026-02-18-proizvodstvo-kartochki/1.png' | relative_url }}" alt="Сборка заказов" style="max-width:100%; height:auto; display:inline-block;" />
+  <figcaption>Сборка заказов</figcaption>
 </figure>
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/img/posts/2026-02-18-proizvodstvo-kartochki/2.png' | relative_url }}" alt="Фасовка" style="max-width:100%; height:auto; display:inline-block;" />
+  <figcaption>Фасовка</figcaption>
 </figure>
 
 А вы чаще собираете заказы с планшета или по распечатке?
