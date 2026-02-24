@@ -34,11 +34,11 @@ description: "Обновление дизайна производственны
 ### Смотрите, как стало стильно и удобно:
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2026-02-18-proizvodstvo-kartochki/1.jpg' | relative_url }}" alt="Сборка заказов" style="max-width:100%; height:auto; display:inline-block;" />
+  <img src="{{ '/assets/img/posts/2026-02-18-proizvodstvo-kartochki/1.png' | relative_url }}" alt="Сборка заказов" style="max-width:100%; height:auto; display:inline-block;" />
 </figure>
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/img/posts/2026-02-18-proizvodstvo-kartochki/2.jpg' | relative_url }}" alt="Фасовка" style="max-width:100%; height:auto; display:inline-block;" />
+  <img src="{{ '/assets/img/posts/2026-02-18-proizvodstvo-kartochki/2.png' | relative_url }}" alt="Фасовка" style="max-width:100%; height:auto; display:inline-block;" />
 </figure>
 
 А вы чаще собираете заказы с планшета или по распечатке?
